@@ -30,7 +30,7 @@ This script:
 ### Manual steps
 In Cygwin Terminal:
 ```bash
-Step 1: Navigate to project folder
+# Step 1: Navigate to project folder
 cd /cygdrive/c/Users/Yashika/Downloads/HELIXFORGE-main/HELIXFORGE-main
 
 # Step 2: Compile C++ assembler (first time only, or if code changes)
