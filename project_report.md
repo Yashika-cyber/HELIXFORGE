@@ -17,10 +17,7 @@
 3. [Module Diagram, Flowchart & DFD](#3-module-diagram-flowchart--dfd)
 4. [Main Modules — Algorithms & Descriptions](#4-main-modules--algorithms--descriptions)
 5. [Relevant APS Topics](#5-relevant-aps-topics)
-6. [Work Division](#6-work-division)
-7. [Output Screenshots](#7-output-screenshots)
-8. [Conclusion](#8-conclusion)
-9. [Appendix I — Implementation Code](#appendix-i--implementation-code)
+6. [Conclusion](#8-conclusion)
 
 ---
 
